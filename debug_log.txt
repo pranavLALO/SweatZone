@@ -7,3 +7,6 @@
 2026-03-30 05:33:34 - AuthID: 1 - Input: {"duration":39,"intensity":"medium","muscle_group":"shoulder","progress":30,"user_id":1}
 2026-03-31 09:04:25 - AuthID: 2 - Input: {"duration":17,"intensity":"medium","muscle_group":"chest","progress":30,"user_id":2}
 2026-03-31 09:04:39 - AuthID: 2 - Input: {"duration":10,"intensity":"medium","muscle_group":"shoulder","progress":30,"user_id":2}
+2026-05-23 17:14:53 - AuthID: 7 - Input: {"duration":10,"intensity":"medium","muscle_group":"chest","progress":0,"user_id":7}
+2026-05-23 17:15:02 - AuthID: 7 - Input: {"duration":5,"intensity":"medium","muscle_group":"shoulder","progress":0,"user_id":7}
+2026-05-23 17:17:25 - AuthID: 7 - Input: {"completed_reps":69,"completed_sets":6,"duration":71,"exercise_logs":[{"exercise_title":"Barbell Bench Press","reps_completed":36,"sets_completed":3,"time_used_seconds":0,"weight_kg":0},{"exercise_title":"Incline Dumbbell Press","reps_completed":33,"sets_completed":3,"time_used_seconds":0,"weight_kg":0}],"intensity":"intermediate","muscle_group":"chest","progress":100,"timer_seconds_used":71,"user_id":7}
